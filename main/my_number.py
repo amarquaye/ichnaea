@@ -1,3 +1,3 @@
 # Number to be tracked
 
-number = "+233550639693"
+number = "+233561490762"
